@@ -1,0 +1,16 @@
+(undo-tree-save-format-version . 1)
+"04ebcf9de30631575a7ace1dfdad4eebc7fbf661"
+[nil nil nil nil (25198 15165 315229 740000) 0 nil]
+([nil nil ((#("	Center Vector2
+	Radius float64
+" 0 8 (fontified t) 8 15 (fontified t face font-lock-type-face) 15 24 (fontified t) 24 31 (fontified t face font-lock-type-face) 31 32 (fontified t)) . 120) (undo-tree-id0 . -20) (undo-tree-id1 . -1) (undo-tree-id2 . -17) (undo-tree-id3 . -20) (undo-tree-id4 . -4) (undo-tree-id5 . -20) (undo-tree-id6 . -4) (undo-tree-id7 . -20) 140 (t 25197 23368 112182 158000)) nil (25198 15165 315224 711000) 0 nil])
+([nil nil ((#("	" 0 1 (fontified nil)) . -1080) (undo-tree-id2 . -1) (1081 . 1082) (1079 . 1081) (1070 . 1079) (#("c" 0 1 (face font-lock-type-face fontified t)) . -1070) (undo-tree-id3 . -1) 1071 (1056 . 1071) (1045 . 1056) (1044 . 1045) (1043 . 1044) (t 25198 15165 313330 840000) 1042) nil (25198 30484 907311 626000) 0 nil])
+([nil nil ((1107 . 1110) (#("u" 0 1 (fontified t)) . -1107) (undo-tree-id0 . -1) 1108 (1090 . 1108) (#("x" 0 1 (fontified t)) . -1090) (undo-tree-id1 . -1) 1091 (1081 . 1091) (1079 . 1081) 1045) nil (25198 30484 907303 524000) 0 nil])
+([nil nil ((#("	return a.X * b.X + a.Y * b*Y;
+" 0 1 (fontified t) 1 7 (face font-lock-keyword-face fontified t) 7 30 (fontified t) 30 31 (fontified t)) . 1080) (undo-tree-id4 . 1) (undo-tree-id5 . -20) (undo-tree-id6 . -27) (undo-tree-id7 . -28) (undo-tree-id8 . -29) (undo-tree-id9 . 1) (undo-tree-id10 . -29) (undo-tree-id11 . -29) (undo-tree-id12 . -29) (undo-tree-id13 . -20) (undo-tree-id14 . -8) (undo-tree-id15 . -29) (undo-tree-id16 . -8) (undo-tree-id17 . -9) (undo-tree-id18 . -20) (undo-tree-id19 . -21) (undo-tree-id20 . -20) 1100 (t 25198 30484 905474 381000)) nil (25198 30490 111500 457000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 1080 . 1081) (1080 . 1111)) nil (25198 30490 111479 994000) 0 nil])
+([nil nil ((1077 . 1085) (t 25198 30490 108779 162000)) nil (25198 30492 484903 529000) 0 nil])
+([nil nil ((1115 . 1116) (#("*" 0 1 (fontified t)) . 1115) (undo-tree-id21 . -1) (undo-tree-id22 . -1) (t 25198 30492 482099 471000)) nil (25198 30499 318684 483000) 0 nil])
+([nil nil ((#("*" 0 1 (fontified t)) . 1056) (t 25198 30499 315395 308000)) nil (25198 52488 324823 976000) 0 nil])
+([nil current ((#("*" 0 1 (fontified t)) . 1067)) nil (25198 52488 324816 852000) 0 nil])
+nil

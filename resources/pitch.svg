@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="700"
+   viewBox="0 0 264.58333 185.20834"
+   version="1.1"
+   id="svg827"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="pitch.svg"
+   inkscape:export-filename="/home/alex/pvp.fm/games/football/client/assets/pitch.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview829"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="534.21917"
+     inkscape:cy="353.90694"
+     inkscape:window-width="2516"
+     inkscape:window-height="1440"
+     inkscape:window-x="44"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs824" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#2e6344;fill-opacity:1;stroke-width:2.365;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect910"
+       width="264.58334"
+       height="185.20833"
+       x="5.5511151e-17"
+       y="0" />
+    <rect
+       style="fill:#7aee99;fill-opacity:1;stroke-width:0.245184;stroke-linejoin:bevel;stroke-opacity:0.698257;paint-order:markers fill stroke"
+       id="rect5211"
+       width="264.58334"
+       height="52.916668"
+       x="0"
+       y="66.145836"
+       ry="5.1815701" />
+    <rect
+       style="fill:#7aee99;fill-opacity:1;stroke-width:0.430296;stroke-linejoin:bevel;stroke-opacity:0.698257;paint-order:markers fill stroke"
+       id="rect7432"
+       width="232.83334"
+       height="185.20834"
+       x="15.875"
+       y="2.8421709e-14"
+       ry="3.4374518" />
+    <path
+       style="color:#000000;fill:#fefefe;stroke-width:0.398411;-inkscape-stroke:none"
+       d="m 130.96876,0 v 20.646669 h 2.64583 V 0 Z"
+       id="path9433" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.20909;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path11973"
+       cx="132.29167"
+       cy="92.604164"
+       rx="38.582958"
+       ry="38.582954" />
+    <path
+       style="color:#000000;fill:#fefefe;stroke-width:0.923624;-inkscape-stroke:none"
+       d="M 130.96876,37.122775 V 148.08556 h 2.64583 V 37.122775 Z"
+       id="path13582" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.56618;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path13992"
+       cx="132.29167"
+       cy="92.604164"
+       r="4.1142492" />
+    <path
+       style="color:#000000;fill:#ffffff;stroke-width:2.58645;-inkscape-stroke:none"
+       d="M 14.552084,66.145834 V 119.0625 h 1.322917 V 66.145834 Z"
+       id="path1011" />
+    <path
+       style="color:#000000;fill:#ffffff;stroke-width:2.58645;-inkscape-stroke:none"
+       d="M 248.70834,66.145834 V 119.0625 h 1.32292 V 66.145834 Z"
+       id="path1663" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="132.19113"
+       y="32.947746"
+       id="text3867"><tspan
+         sodipodi:role="line"
+         id="tspan3865"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="132.19113"
+         y="32.947746">PVP.FM</tspan></text>
+    <path
+       style="color:#000000;fill:#fefefe;stroke-width:0.391218;-inkscape-stroke:none"
+       d="m 131.01982,164.53894 v 20.70733 h 2.5437 v -20.70733 z"
+       id="path9439" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="180.91664"
+       y="160.2746"
+       id="text9447"><tspan
+         sodipodi:role="line"
+         id="tspan9445"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.264583"
+         x="180.91664"
+         y="160.2746">TURBO FOOTBALL</tspan></text>
+  </g>
+</svg>
